@@ -11,34 +11,41 @@ Currently strengthening my backend skills with Node.js and Express to become a w
 🟣 Canvas Vibe — Social Media Platform
 
 Next.js • Firebase
-	•	Authentication system
-	•	Real-time likes & comments (Firestore listeners)
-	•	Image upload & structured backend data management
 
-🔗 Live: https://canvas-vibe.vercel.app
-🔗 GitHub: https://github.com/Abraham3stack/canvas-vibe
+Authentication system • Real-time likes & comments (Firestore listeners) • Image upload & structured backend data management
+
+🔗 Live Demo￼
+🔗 GitHub Repository￼
 
 🌍 Translator App
 
 Next.js • External API
-	•	Multi-language translation
-	•	Optimized client-side rendering
-	•	Clean, responsive UI
 
-🔗 Live: https://translator-app-chi-ten.vercel.app
-🔗 GitHub: https://github.com/Abraham3stack/translator-app
+Multi-language translation • Optimized client-side rendering • Clean responsive UI
+
+🔗 Live Demo￼
+🔗 GitHub Repository￼
 
 🍽 Recipe App
 
 React • REST API
-	•	Dynamic recipe browsing
-	•	API integration
-	•	Component-based architecture
 
-🔗 Live: https://recipe-app-upec.vercel.app
-🔗 GitHub: https://github.com/Abraham3stack/recipe-app
+Dynamic recipe browsing • API integration • Component-based architecture
 
-##🛠 Tech Stack
+🔗 Live Demo￼
+🔗 GitHub Repository￼
+
+🛠 Tech Stack
+
+Frontend
+
+Backend
+
+Tools
+
+📊 GitHub Stats
+
+🛠 Tech Stack
 
 Frontend:
 HTML, CSS, JavaScript, React, Next.js
