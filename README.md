@@ -6,7 +6,7 @@ I build production-ready web applications with real-time functionality, authenti
 
 Currently strengthening my backend skills with Node.js and Express to become a well-rounded fullstack engineer.
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
 🟣 Canvas Vibe — Social Media Platform
 
@@ -37,7 +37,7 @@ React
 
 🔗 Live: https://recipe-app-upec.vercel.app 🔗 GitHub: https://github.com/Abraham3stack/recipe-app
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Frontend: HTML, CSS, JavaScript, React, Next.js
 
@@ -45,19 +45,19 @@ Backend: Firebase (Auth, Firestore, Storage) Node.js (Learning), Express (Learni
 
 Tools: Git, GitHub, Vercel, REST APIs
 
-📈 Currently Working On 
+## 📈 Currently Working On 
 
 • Strengthening backend fundamentals with Node.js 
 • Building full backend APIs with Express 
 • Deepening understanding of authentication & JWT 
 • Applying for junior frontend & fullstack roles
 
-🌍 Connect With Me
+## 🌍 Connect With Me
 
 📧 Email: abrahamogbu.dev@gmail.com 
 🌐 Portfolio: https://abraham3stack.github.io/portfolio
 💼 LinkedIn: https://linkedin.com/in/abraham-ogbu-959596398
 
-⚡ Mindset
+## ⚡ Mindset
 
 Consistency beats talent. I show up every day.
