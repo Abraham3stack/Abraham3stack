@@ -10,62 +10,51 @@ Currently strengthening my backend skills with Node.js and Express to become a w
 
 🟣 Canvas Vibe — Social Media Platform
 
-Next.js • Firebase
+Next.js 
+• Firebase 
+• Authentication system 
+• Real-time likes & comments (Firestore listeners) 
+• Image upload & structured backend data management
 
-Authentication system • Real-time likes & comments (Firestore listeners) • Image upload & structured backend data management
-
-🔗 Live Demo￼
-🔗 GitHub Repository￼
+🔗 Live: https://canvas-vibe.vercel.app 🔗 GitHub: https://github.com/Abraham3stack/canvas-vibe
 
 🌍 Translator App
 
-Next.js • External API
+Next.js 
+• External API 
+• Multi-language translation 
+• Optimized client-side rendering 
+• Clean, responsive UI
 
-Multi-language translation • Optimized client-side rendering • Clean responsive UI
-
-🔗 Live Demo￼
-🔗 GitHub Repository￼
+🔗 Live: https://translator-app-chi-ten.vercel.app 🔗 GitHub: https://github.com/Abraham3stack/translator-app
 
 🍽 Recipe App
 
-React • REST API
+React 
+• REST API 
+• Dynamic recipe browsing 
+• API integration • Component-based architecture
 
-Dynamic recipe browsing • API integration • Component-based architecture
-
-🔗 Live Demo￼
-🔗 GitHub Repository￼
-
-🛠 Tech Stack
-
-Frontend
-
-Backend
-
-Tools
-
-📊 GitHub Stats
+🔗 Live: https://recipe-app-upec.vercel.app 🔗 GitHub: https://github.com/Abraham3stack/recipe-app
 
 🛠 Tech Stack
 
-Frontend:
-HTML, CSS, JavaScript, React, Next.js
+Frontend: HTML, CSS, JavaScript, React, Next.js
 
-Backend:
-Firebase (Auth, Firestore, Storage)
-Node.js (Learning), Express (Learning)
+Backend: Firebase (Auth, Firestore, Storage) Node.js (Learning), Express (Learning)
 
-Tools:
-Git, GitHub, Vercel, REST APIs
+Tools: Git, GitHub, Vercel, REST APIs
 
-📈 Currently Working On
-	•	Strengthening backend fundamentals with Node.js
-	•	Building full backend APIs with Express
-	•	Deepening understanding of authentication & JWT
-	•	Applying for junior frontend & fullstack roles
+📈 Currently Working On 
 
-  🌍 Connect With Me
+• Strengthening backend fundamentals with Node.js 
+• Building full backend APIs with Express 
+• Deepening understanding of authentication & JWT 
+• Applying for junior frontend & fullstack roles
 
-📧 Email: abrahamogbu.dev@gmail.com
+🌍 Connect With Me
+
+📧 Email: abrahamogbu.dev@gmail.com 
 🌐 Portfolio: https://abraham3stack.github.io/portfolio
 💼 LinkedIn: https://linkedin.com/in/abraham-ogbu-959596398
 
