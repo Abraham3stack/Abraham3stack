@@ -1,5 +1,7 @@
 ## 👋🏾 Hi, I'm Abraham Ogbu
 
+📍 Abuja, Nigeria | Open to Remote
+
 Junior Fullstack Developer | React • Next.js • Firebase • Node.js
 
 I build production-ready web applications with real-time functionality, authentication systems and clean UI architecture.
@@ -66,4 +68,5 @@ Git, GitHub, Vercel, REST APIs
 
 ## ⚡ Mindset
 
-Consistency beats talent. I show up every day.
+Consistency beats talent — I show up every day.
+
