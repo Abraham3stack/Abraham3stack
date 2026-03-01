@@ -1,44 +1,67 @@
-## Hello! I'm Abraham 👋🏾
+## 👋🏾 Hi, I'm Abraham Ogbu
 
+Junior Fullstack Developer | React • Next.js • Firebase • Node.js
 
-I'm a **Frontend Developer in progress**, passionate about building clean, responsive websites and learning modern web technologies.
+I build production-ready web applications with real-time functionality, authentication systems and clean UI architecture.
 
-- 🎓 Learned **HTML & CSS** at CodeCampus  
-- 🚀 Currently learning **JavaScript**
-- 💼 Built my **portfolio template using HTML & CSS**
-- 🌱 Growing step by step in frontend development
-- 📬 Open to internships, collaborations, and learning opportunities
+Currently strengthening my backend skills with Node.js and Express to become a well-rounded fullstack engineer.
 
-📧 Reach me: **ogbuabraham39@gmail.com**  
-🌐 Portfolio: https://abraham3stack.github.io/practice/
+🚀 Featured Projects
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/abraham-ogbu-959596398)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Abraham3stack)
+🟣 Canvas Vibe — Social Media Platform
 
-## 💻 Tech Stack
+Next.js • Firebase
+	•	Authentication system
+	•	Real-time likes & comments (Firestore listeners)
+	•	Image upload & structured backend data management
 
-### Currently Using
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+🔗 Live: https://canvas-vibe.vercel.app
+🔗 GitHub: https://github.com/Abraham3stack/canvas-vibe
 
-### Tools & Concepts
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-green)
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+🌍 Translator App
 
-## 📊 GitHub Stats
+Next.js • External API
+	•	Multi-language translation
+	•	Optimized client-side rendering
+	•	Clean, responsive UI
 
-![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abraham3stack&show_icons=true&theme=dark)
+🔗 Live: https://translator-app-chi-ten.vercel.app
+🔗 GitHub: https://github.com/Abraham3stack/translator-app
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abraham3stack&layout=compact&theme=dark)
+🍽 Recipe App
 
-## 🚧 What I'm Working On
-- Improving my **JavaScript fundamentals**
-- Making my portfolio **fully responsive**
-- Practicing **real-world UI layouts**
-- Preparing for **internships & junior roles**
+React • REST API
+	•	Dynamic recipe browsing
+	•	API integration
+	•	Component-based architecture
 
-## ✨ Fun Fact
-I believe consistency beats talent — I show up every day 💪
+🔗 Live: https://recipe-app-upec.vercel.app
+🔗 GitHub: https://github.com/Abraham3stack/recipe-app
+
+##🛠 Tech Stack
+
+Frontend:
+HTML, CSS, JavaScript, React, Next.js
+
+Backend:
+Firebase (Auth, Firestore, Storage)
+Node.js (Learning), Express (Learning)
+
+Tools:
+Git, GitHub, Vercel, REST APIs
+
+📈 Currently Working On
+	•	Strengthening backend fundamentals with Node.js
+	•	Building full backend APIs with Express
+	•	Deepening understanding of authentication & JWT
+	•	Applying for junior frontend & fullstack roles
+
+  🌍 Connect With Me
+
+📧 Email: abrahamogbu.dev@gmail.com
+🌐 Portfolio: https://abraham3stack.github.io/portfolio
+💼 LinkedIn: https://linkedin.com/in/abraham-ogbu-959596398
+
+⚡ Mindset
+
+Consistency beats talent. I show up every day.
