@@ -1,19 +1,18 @@
 ## 👋🏾 Hi, I'm Abraham Ogbu
+![Profile Views](https://komarev.com/ghpvc/?username=Abraham3stack&color=green)
+
+Full-Stack Developer — Next.js | Node.js | MongoDB
 
 📍 Abuja, Nigeria • Open to Remote Opportunities
 
-## 🚀 About Me
+## 🚀 About
 
-I’m a full-stack JavaScript developer building modern web applications using Next.js, Node.js, Express, and MongoDB
-
-I build production-ready web applications with real-time functionality, authentication systems and clean UI architecture.
-
-I focus on:
-    •	Responsive UI & smooth user experiences
+I build modern full-stack web applications with Next.js, Node.js, Express, and MongoDB, focusing on performance, scalability, and real-world usability.
+	•	Responsive UI & seamless user experience
 	•	Scalable backend systems & APIs
 	•	Real-world product development
 
-Currently seeking internships, junior developer roles, and opportunities to contribute to impactful products.
+Currently seeking internships, junior roles, and impactful product teams.
 
 ## 🛠 Tech Stack
 
@@ -24,60 +23,52 @@ Backend:
 Node.js • Express.js • REST APIs
 
 Database:
-MongoDB
+MongoDB • Firebase
 
 Tools & Deployment:
-Git • GitHub • Vercel • Railway • Firebase
+Git • GitHub • Vercel • Railway • Paystack
 
 ## 🚀 Featured Projects
 
 🧠 Daily Mind (AI + Social Platform)
 
-A full-stack app where users can post facts, like, comment, and generate AI-powered content.
-	•	Full CRUD functionality
-	•	AI-generated facts
-	•	Authentication system
-	•	Scalable backend
+Full-stack app with AI-generated content, authentication, and real-time interactions.
 
 🔗 Live: https://daily-mind-eight.vercel.app
 🔗 GitHub: https://github.com/Abraham3stack/daily-mind
 
 ☕ Brew App (Payments Integration)
 
-An e-commerce-style coffee app with payment system.
-	•	Add to cart
-	•	Paystack integration
-	•	Email confirmation
+E-commerce coffee app with cart system and Paystack payment integration.
 
 🔗 Live: https://brew-pay.vercel.app
 🔗 GitHub: https://github.com/Abraham3stack/brew-pay
 
 🟣 Canvas Vibe (Social App)
 
-A social media platform with posts, likes, comments, and user profiles.
-	•	Image upload
-	•	Real-time interactions
-	•	User profiles & editing
-	•	Full-stack architecture
+Social app with posts, likes, comments, and user profiles.
 
 🔗 Live: https://canvas-vibe.vercel.app
 🔗 GitHub: https://github.com/Abraham3stack/canvas-vibe
 
 🌍 Translator App
 
-A multi-language translation app with voice support.
-	•	External API integration
-	•	Voice translation
-	•	Clean UI
+Multi-language translator with voice support and API integration.
 
 🔗 Live: https://translator-app-chi-ten.vercel.app
 🔗 GitHub: https://github.com/Abraham3stack/translator-app
 
-## 🤝 Let’s Connect
+## 📊 GitHub Stats
 
-📧 Email: abrahamogbu.dev@gmail.com
-🌐 Portfolio: https://portfolio-2-azure-delta.vercel.app
-💼 LinkedIn: https://linkedin.com/in/abraham-ogbu-959596398
+![stats](https://github-readme-stats.vercel.app/api?username=Abraham3stack&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abraham3stack&layout=compact&theme=tokyonight&hide_border=true)
+
+## 🤝 Connect
+
+📧 abrahamogbu.dev@gmail.com
+🌐 https://portfolio-2-azure-delta.vercel.app
+💼 https://linkedin.com/in/abraham-ogbu-959596398
 
 ## ⚡ Fun Fact
 
