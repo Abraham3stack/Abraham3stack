@@ -1,72 +1,84 @@
 ## 👋🏾 Hi, I'm Abraham Ogbu
 
-📍 Abuja, Nigeria | Open to Remote
+📍 Abuja, Nigeria • Open to Remote Opportunities
 
-Junior Fullstack Developer | React • Next.js • Firebase • Node.js
+## 🚀 About Me
+
+I’m a full-stack JavaScript developer building modern web applications using Next.js, Node.js, Express, and MongoDB
 
 I build production-ready web applications with real-time functionality, authentication systems and clean UI architecture.
 
-Currently strengthening my backend skills with Node.js and Express to become a well-rounded fullstack engineer.
+I focus on:
+	•	Responsive UI & smooth user experiences
+	•	Scalable backend systems & APIs
+	•	Real-world product development
+
+Currently seeking internships, junior developer roles, and opportunities to contribute to impactful products.
+
+## 🛠 Tech Stack
+
+# Frontend:
+Next.js • React • JavaScript • Tailwind CSS
+
+# Backend:
+Node.js • Express.js • REST APIs
+
+# Database:
+MongoDB
+
+# Tools & Deployment:
+Git • GitHub • Vercel • Railway • Firebase
 
 ## 🚀 Featured Projects
 
-🟣 Canvas Vibe — Social Media Platform
+🧠 Daily Mind (AI + Social Platform)
 
-Next.js • Firebase
+A full-stack app where users can post facts, like, comment, and generate AI-powered content.
+	•	Full CRUD functionality
+	•	AI-generated facts
 	•	Authentication system
-	•	Real-time likes & comments (Firestore listeners)
-	•	Image upload & structured backend data management
+	•	Scalable backend
+
+🔗 Live: https://daily-mind-eight.vercel.app
+🔗 GitHub: https://github.com/Abraham3stack/daily-mind
+
+☕ Brew App (Payments Integration)
+
+An e-commerce-style coffee app with payment system.
+	•	Add to cart
+	•	Paystack integration
+	•	Email confirmation
+
+🔗 Live: https://brew-pay.vercel.app
+🔗 GitHub: https://github.com/Abraham3stack/brew-pay
+
+🟣 Canvas Vibe (Social App)
+
+A social media platform with posts, likes, comments, and user profiles.
+	•	Image upload
+	•	Real-time interactions
+	•	User profiles & editing
+	•	Full-stack architecture
 
 🔗 Live: https://canvas-vibe.vercel.app
 🔗 GitHub: https://github.com/Abraham3stack/canvas-vibe
 
 🌍 Translator App
 
-Next.js • External API
-	•	Multi-language translation
-	•	Optimized client-side rendering
-	•	Clean, responsive UI
+A multi-language translation app with voice support.
+	•	External API integration
+	•	Voice translation
+	•	Clean UI
 
 🔗 Live: https://translator-app-chi-ten.vercel.app
 🔗 GitHub: https://github.com/Abraham3stack/translator-app
 
-🍽 Recipe App
-
-React • REST API
-	•	Dynamic recipe browsing
-	•	API integration
-	•	Component-based architecture
-
-🔗 Live: https://recipe-app-upec.vercel.app
-🔗 GitHub: https://github.com/Abraham3stack/recipe-app
-
-## 🛠 Tech Stack
-
-Frontend:
-HTML, CSS, JavaScript, React, Next.js
-
-Backend:
-Firebase (Auth, Firestore, Storage)
-Node.js (Learning), Express (Learning)
-
-Tools:
-Git, GitHub, Vercel, REST APIs
-
-## 📈 Currently Working On
-
-	•	Strengthening backend fundamentals with Node.js
-	•	Building full backend APIs with Express
-	•	Deepening understanding of authentication & JWT
-	•	Applying for junior frontend & fullstack roles
-
-
-## 🌍 Connect With Me
+## 🤝 Let’s Connect
 
 📧 Email: abrahamogbu.dev@gmail.com
-🌐 Portfolio: https://abraham3stack.github.io/portfolio
+🌐 Portfolio: https://portfolio-2-azure-delta.vercel.app
 💼 LinkedIn: https://linkedin.com/in/abraham-ogbu-959596398
 
-## ⚡ Mindset
+## ⚡ Fun Fact
 
-Consistency beats talent — I show up every day.
-
+I build, learn, and ship projects consistently 🚀
