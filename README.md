@@ -60,9 +60,10 @@ Multi-language translator with voice support and API integration.
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=Abraham3stack&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abraham3stack&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abraham3stack&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraham3stack&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ## 🤝 Connect
 
