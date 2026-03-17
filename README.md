@@ -9,7 +9,7 @@ I’m a full-stack JavaScript developer building modern web applications using N
 I build production-ready web applications with real-time functionality, authentication systems and clean UI architecture.
 
 I focus on:
-	•	Responsive UI & smooth user experiences
+    •	Responsive UI & smooth user experiences
 	•	Scalable backend systems & APIs
 	•	Real-world product development
 
@@ -17,16 +17,16 @@ Currently seeking internships, junior developer roles, and opportunities to cont
 
 ## 🛠 Tech Stack
 
-# Frontend:
+Frontend:
 Next.js • React • JavaScript • Tailwind CSS
 
-# Backend:
+Backend:
 Node.js • Express.js • REST APIs
 
-# Database:
+Database:
 MongoDB
 
-# Tools & Deployment:
+Tools & Deployment:
 Git • GitHub • Vercel • Railway • Firebase
 
 ## 🚀 Featured Projects
