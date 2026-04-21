@@ -1,13 +1,13 @@
 ## 👋🏾 Hi, I'm Abraham Ogbu
 ![Profile Views](https://komarev.com/ghpvc/?username=Abraham3stack&color=green)
 
-Full-Stack Developer — Next.js | Node.js | MongoDB
+Full-Stack Developer — Next.js | Node.js | PostgreSQL | MongoDB
 
 📍 Abuja, Nigeria • Open to Remote Opportunities
 
 ## 🚀 About
 
-I build modern full-stack web applications with Next.js, Node.js, Express, and MongoDB, focusing on performance, scalability, and real-world usability.
+I build modern full-stack web applications with Next.js, Node.js, Express, PostgreSQL and MongoDB, focusing on performance, scalability, and real-world usability.
 	•	Responsive UI & seamless user experience
 	•	Scalable backend systems & APIs
 	•	Real-world product development
@@ -17,16 +17,16 @@ Currently seeking internships, junior roles, and impactful product teams.
 ## 🛠 Tech Stack
 
 Frontend:
-Next.js • React • JavaScript • Tailwind CSS
+Next.js • React • TypeScript • JavaScript • Tailwind CSS
 
 Backend:
-Node.js • Express.js • REST APIs
+Node.js • Express.js • REST APIs • JWT
 
 Database:
-MongoDB • Firebase
+PostgreSQL • MongoDB • •SupaBase Prisma • Firebase
 
 Tools & Deployment:
-Git • GitHub • Vercel • Railway • Paystack
+Git • GitHub • Vercel • Render • Railway • Paystack
 
 ## 🚀 Featured Projects
 
