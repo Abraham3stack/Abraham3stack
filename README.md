@@ -30,12 +30,26 @@ Git • GitHub • Vercel • Render • Railway • Paystack
 
 ## 🚀 Featured Projects
 
-🧠 Daily Mind (AI + Social Platform)
+⚡️ PowerTrack (Smart Electricity Management System)
 
-Full-stack app with AI-generated content, authentication, and real-time interactions.
+Full-stack electricity tracking and planning app that helps users monitor usage, estimate costs, and predict how long their electricity will last using real-time insights and appliance-based simulation.
 
-🔗 Live: https://daily-mind-eight.vercel.app
-🔗 GitHub: https://github.com/Abraham3stack/daily-mind
+🔗 Live: https://electricity-app-ten.vercel.app
+🔗 GitHub: https://github.com/Abraham3stack/Power-Track_Full-stack
+
+🏥 Medicore (Healthcare Management System)
+
+Full-stack healthcare management system with role-based dashboards for admins, doctors, and patients, featuring secure JWT authentication and appointment scheduling.
+
+🔗 Live: https://medicore-frontend-omega.vercel.app
+🔗 GitHub: https://github.com/Abraham3stack/medicore-frontend
+
+💬 Pulse Chat (Real-Time Messaging Platform)
+
+Full-stack real-time chat application with secure JWT authentication, live messaging, and interactive features like typing indicators, presence tracking, and read receipts, built for seamless communication across devices.
+
+🔗 Live: https://chat-app-indol-kappa-80.vercel.app
+🔗 GitHub: https://github.com/Abraham3stack/Chat-app_Full-Stack
 
 ☕ Brew App (Payments Integration)
 
@@ -43,20 +57,6 @@ E-commerce coffee app with cart system and Paystack payment integration.
 
 🔗 Live: https://brew-pay.vercel.app
 🔗 GitHub: https://github.com/Abraham3stack/brew-pay
-
-🟣 Canvas Vibe (Social App)
-
-Social app with posts, likes, comments, and user profiles.
-
-🔗 Live: https://canvas-vibe.vercel.app
-🔗 GitHub: https://github.com/Abraham3stack/canvas-vibe
-
-🌍 Translator App
-
-Multi-language translator with voice support and API integration.
-
-🔗 Live: https://translator-app-chi-ten.vercel.app
-🔗 GitHub: https://github.com/Abraham3stack/translator-app
 
 ## 📊 GitHub Stats
 
