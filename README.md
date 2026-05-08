@@ -58,7 +58,7 @@ E-commerce coffee app with cart system and Paystack payment integration.
 🔗 Live: https://brew-pay.vercel.app
 🔗 GitHub: https://github.com/Abraham3stack/brew-pay
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abraham3stack&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
