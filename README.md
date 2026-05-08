@@ -73,4 +73,4 @@ E-commerce coffee app with cart system and Paystack payment integration.
 
 ## ⚡ Fun Fact
 
-I build, learn, and ship projects consistently 🚀
+I build, learn, and ship projects consistently. 🚀
