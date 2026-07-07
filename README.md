@@ -68,7 +68,7 @@ E-commerce coffee app with cart system and Paystack payment integration.
 ## 🤝 Connect
 
 📧 abrahamogbu.dev@gmail.com
-🌐 https://portfolio-2-azure-delta.vercel.app
+🌐 https://abrahamogbu.com
 💼 https://linkedin.com/in/abraham-ogbu-959596398
 
 ## ⚡ Fun Fact
