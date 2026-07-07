@@ -45,12 +45,18 @@ AI-powered migration planning SaaS helping users navigate relocation pathways, f
 
 **Stack:** Next.js • TypeScript • PostgreSQL • Prisma • OpenAI
 
+🌐 Live: https://migrate-ai-iota.vercel.app/
+💻 GitHub: https://github.com/Abraham3stack/migrate-ai
+
 ---
 
 ### OmniCore CRM
 Enterprise-grade omnichannel CRM built for customer engagement, realtime messaging, and team collaboration.
 
 **Stack:** Next.js • TypeScript • React Query • Zustand • Socket.IO
+
+🌐 Live: https://omnicore-frontend.vercel.app/
+💻 GitHub: https://github.com/OmniCore-CRM/omnicore-frontend
 
 ---
 
@@ -59,12 +65,18 @@ Production marketplace platform connecting buyers and sellers with realtime mess
 
 **Stack:** React • TypeScript • Node.js • PostgreSQL • Socket.IO
 
+🌐 Live: https://www.qwik.ng
+💻 GitHub: Private (Production Client Project)
+
 ---
 
 ### MediCore
 Hospital Management System with role-based access, appointments, authentication, and patient management.
 
-**Stack:** Next.js • Node.js • PostgreSQL • JWT
+**Stack:** Next.js • Node.js • MongoDB • JWT
+
+🌐 Live: https://medicore-frontend-omega.vercel.app/
+💻 GitHub: https://github.com/Abraham3stack/medicore-full-stack
 
 ---
 
