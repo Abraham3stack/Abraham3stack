@@ -42,6 +42,7 @@ Git • GitHub • Vercel • Render • Railway • Postman
 
 ### MigrateAI
 AI-powered migration planning SaaS helping users navigate relocation pathways, fees, documents, and migration planning.
+✅ Production Ready (Lead Full-Stack Engineer)
 
 **Stack:** Next.js • TypeScript • PostgreSQL • Prisma • OpenAI
 
@@ -52,6 +53,7 @@ AI-powered migration planning SaaS helping users navigate relocation pathways, f
 
 ### OmniCore CRM
 Enterprise-grade omnichannel CRM built for customer engagement, realtime messaging, and team collaboration.
+🚧 Pre-Launch SaaS (Founder & Lead Engineer)
 
 **Stack:** Next.js • TypeScript • React Query • Zustand • Socket.IO
 
@@ -62,6 +64,7 @@ Enterprise-grade omnichannel CRM built for customer engagement, realtime messagi
 
 ### Qwik Marketplace
 Production marketplace platform connecting buyers and sellers with realtime messaging and marketplace workflows.
+✅ Live Product With Real Users
 
 **Stack:** React • TypeScript • Node.js • PostgreSQL • Socket.IO
 
