@@ -1,76 +1,93 @@
-## 👋🏾 Hi, I'm Abraham Ogbu
-![Profile Views](https://komarev.com/ghpvc/?username=Abraham3stack&color=green)
+# 👋 Hi, I'm Abraham Ogbu
 
-Full-Stack Developer — Next.js | Node.js | PostgreSQL | MongoDB
+Full-Stack Software Engineer building SaaS, CRM, AI-powered platforms, and marketplace products.
 
-📍 Abuja, Nigeria • Open to Remote Opportunities
+🌍 Portfolio: https://abrahamogbu.com  
+💼 LinkedIn: https://linkedin.com/in/abraham-ogbu-959596398  
+📧 Email: abrahamogbu.dev@gmail.com
+
+---
 
 ## 🚀 About
 
-I build modern full-stack web applications with Next.js, Node.js, Express, PostgreSQL and MongoDB, focusing on performance, scalability, and real-world usability.
-	•	Responsive UI & seamless user experience
-	•	Scalable backend systems & APIs
-	•	Real-world product development
+I design, build, and deploy production-ready software using modern JavaScript and TypeScript ecosystems.
 
-Currently seeking internships, junior roles, and impactful product teams.
+Currently:
+- Developer Trainer @ CodeCampus
+- Building MigrateAI (AI-powered migration SaaS)
+- Building OmniCore (Enterprise Omnichannel CRM)
+- Working on Qwik Marketplace (Live Product)
+
+Incoming Software Engineering Student at Near East University.
+
+---
 
 ## 🛠 Tech Stack
 
-Frontend:
-Next.js • React • TypeScript • JavaScript • Tailwind CSS
+### Frontend
+Next.js • React • TypeScript • TanStack Query • Zustand • TailwindCSS
 
-Backend:
-Node.js • Express.js • REST APIs • JWT
+### Backend
+Node.js • Express • REST APIs • Socket.IO • JWT Authentication
 
-Database:
-PostgreSQL • MongoDB • •SupaBase Prisma • Firebase
+### Database
+PostgreSQL • MongoDB • Prisma
 
-Tools & Deployment:
-Git • GitHub • Vercel • Render • Railway • Paystack
+### DevOps & Tools
+Git • GitHub • Vercel • Render • Railway • Postman
+
+---
 
 ## 🚀 Featured Projects
 
-⚡️ PowerTrack (Smart Electricity Management System)
+### MigrateAI
+AI-powered migration planning SaaS helping users navigate relocation pathways, fees, documents, and migration planning.
 
-Full-stack electricity tracking and planning app that helps users monitor usage, estimate costs, and predict how long their electricity will last using real-time insights and appliance-based simulation.
+**Stack:** Next.js • TypeScript • PostgreSQL • Prisma • OpenAI
 
-🔗 Live: https://electricity-app-ten.vercel.app
-🔗 GitHub: https://github.com/Abraham3stack/Power-Track_Full-stack
+---
 
-🏥 Medicore (Healthcare Management System)
+### OmniCore CRM
+Enterprise-grade omnichannel CRM built for customer engagement, realtime messaging, and team collaboration.
 
-Full-stack healthcare management system with role-based dashboards for admins, doctors, and patients, featuring secure JWT authentication and appointment scheduling.
+**Stack:** Next.js • TypeScript • React Query • Zustand • Socket.IO
 
-🔗 Live: https://medicore-frontend-omega.vercel.app
-🔗 GitHub: https://github.com/Abraham3stack/medicore-frontend
+---
 
-💬 Pulse Chat (Real-Time Messaging Platform)
+### Qwik Marketplace
+Production marketplace platform connecting buyers and sellers with realtime messaging and marketplace workflows.
 
-Full-stack real-time chat application with secure JWT authentication, live messaging, and interactive features like typing indicators, presence tracking, and read receipts, built for seamless communication across devices.
+**Stack:** React • TypeScript • Node.js • PostgreSQL • Socket.IO
 
-🔗 Live: https://chat-app-indol-kappa-80.vercel.app
-🔗 GitHub: https://github.com/Abraham3stack/Chat-app_Full-Stack
+---
 
-☕ Brew App (Payments Integration)
+### MediCore
+Hospital Management System with role-based access, appointments, authentication, and patient management.
 
-E-commerce coffee app with cart system and Paystack payment integration.
+**Stack:** Next.js • Node.js • PostgreSQL • JWT
 
-🔗 Live: https://brew-pay.vercel.app
-🔗 GitHub: https://github.com/Abraham3stack/brew-pay
+---
 
-## 📊 GitHub Stats 
+## 🏆 Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abraham3stack&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraham3stack&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+- Developer Trainer at CodeCampus
+- TechCrush Frontend Development Graduate
+- Tech4Africans Cohort 8 Scholarship Recipient
+- Built and deployed multiple production-grade full-stack applications
+- Founder-level experience building SaaS products from concept to deployment
+
+---
+
+## 📈 GitHub Activity
+
+Consistently building, shipping, and maintaining production software across SaaS, CRM, AI, and marketplace products.
+
+---
 
 ## 🤝 Connect
 
-📧 abrahamogbu.dev@gmail.com
-🌐 https://abrahamogbu.com
-💼 https://linkedin.com/in/abraham-ogbu-959596398
+- Portfolio: https://abrahamogbu.com
+- LinkedIn: https://linkedin.com/in/abraham-ogbu-959596398
+- Email: abrahamogbu.dev@gmail.com
 
-## ⚡ Fun Fact
-
-I build, learn, and ship projects consistently. 🚀
+---
